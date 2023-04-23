@@ -1,0 +1,13 @@
+.sub-details-container {
+  background-color: #fff;
+  width: 17rem;
+  padding: 1rem;
+  border-radius: 15px;
+}
+.sub-details-container a {
+  text-decoration: none;
+}
+.sub-details-container-item a {
+  text-decoration: none;
+  color: #000;
+}

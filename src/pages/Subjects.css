@@ -1,0 +1,26 @@
+.heading {
+  color: #405fbd;
+  font-size: 2.2rem;
+  font-weight: 500;
+}
+
+.sub-heading {
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.main-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 4rem;
+}
+
+.join-now-details {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}

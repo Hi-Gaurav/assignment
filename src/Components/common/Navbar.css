@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  height: 4rem;
+  background-color: #fff;
+}
+
+.nav-logo {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.nav-menu-items-ul {
+  display: flex;
+  list-style-type: none;
+  gap: 2rem;
+}
