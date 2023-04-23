@@ -8,3 +8,10 @@
   gap: 2rem;
   flex-wrap: wrap;
 }
+
+.pdfs{
+    display: flex;
+    margin-top: 5rem;
+    flex-wrap: wrap;
+    gap: 2rem;
+}

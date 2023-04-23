@@ -2,6 +2,7 @@ import React from "react";
 import "./Bm.css";
 import Search from "../Components/common/Search";
 import SubjectCard from "../Components/common/SubjectCard";
+import PdfBox from "../Components/common/PdfBox";
 
 const Bm = () => {
   return (
@@ -23,6 +24,15 @@ const Bm = () => {
         <SubjectCard />
         <SubjectCard />
         <SubjectCard />
+      </div>
+
+      <div className="pdfs">
+        <PdfBox />
+        <PdfBox />
+        <PdfBox />
+        <PdfBox />
+        <PdfBox />
+        <PdfBox />
       </div>
     </>
   );
